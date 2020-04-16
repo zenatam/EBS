@@ -1,2 +1,0 @@
-# EBS
-Benchtop Service
